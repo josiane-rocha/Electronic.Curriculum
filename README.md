@@ -21,4 +21,4 @@ Copyright 2013-2019 Blackrock Digital LLC. Code released under the [MIT](https:/
 
 Verique ele aqui embaixo &#8595;
 
-https://josiane-rocha.github.io/
+https://josiane-rocha.github.io/Electronic.Curriculum/
